@@ -1,0 +1,32 @@
+.javiera{
+    color: $color-granite-gray;
+    padding: 15px 350px;;
+
+    &__title{
+        padding: 37px;
+        text-align: center;
+        font-size: $fz-large;
+        font-weight: $raleway-bold;
+    }
+}
+
+.javiera img{
+    padding: 15px 100px;
+}
+
+.roberto{
+    color: $color-granite-gray;
+    padding: 15px 350px;
+    margin-bottom: 100px;
+
+    &__title{
+        padding: 37px;
+        text-align: center;
+        font-size: $fz-large;
+        font-weight: $raleway-bold;
+    }
+}
+
+.roberto img{
+    padding: 15px 100px;
+}

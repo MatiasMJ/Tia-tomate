@@ -1,0 +1,26 @@
+.info{
+    background-color: $color-jelly-bean;
+    width: 100%;
+    color: $color-white;
+    height: 300px;
+    padding: 110px 0;
+
+    &__title{
+        text-align: center;
+        font-size: $fz-large;
+        font-weight: $raleway-bold;
+        margin-bottom: 35px;
+    }
+
+    &__btn{
+        background-color: $color-white;
+        color: $color-granite-gray;
+        text-align: center;
+        height: 35px;
+        width: 200px;
+        border-radius: 20px;
+        margin: 0 auto;
+        
+    }
+
+}

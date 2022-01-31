@@ -1,0 +1,16 @@
+.limache{
+    background-color: $color-snow;
+    padding: 75px 150px;
+    color: $color-granite-gray;
+
+    &__title{
+        padding: 37px;
+        text-align: center;
+        font-size: $fz-large;
+        font-weight: $raleway-bold;
+    }
+
+    &__paragraph{
+        margin: 0 175px;
+    }
+}

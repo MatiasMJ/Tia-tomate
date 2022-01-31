@@ -1,0 +1,15 @@
+.about{
+    background-color: $color-jelly-bean;
+    width: 100%;
+    color: $color-white;
+    height: 300px;
+    padding: 110px 0;
+
+    &__title{
+        padding: 37px;
+        text-align: center;
+        font-size: $fz-large;
+        font-weight: $raleway-bold;
+    }
+
+}

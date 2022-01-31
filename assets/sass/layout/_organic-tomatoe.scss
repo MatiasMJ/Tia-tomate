@@ -1,0 +1,16 @@
+.organic{
+    background-color: $color-taupe-gray;
+    padding: 75px 150px;
+    color: $color-white;
+
+    &__title{
+        padding: 37px;
+        text-align: center;
+        font-size: $fz-large;
+        font-weight: $raleway-bold;
+    }
+
+    &__paragraph{
+        margin: 0 200px;
+    }
+}
